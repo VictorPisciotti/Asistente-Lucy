@@ -1,0 +1,24 @@
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\bin\Debug\Photoshop Control.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\bin\Debug\Photoshop Control.exe
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\bin\Debug\Photoshop Control.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\obj\Debug\Photoshop_Control.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\obj\Debug\Photoshop Control.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\obj\Debug\Photoshop Control.exe
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\obj\Debug\Photoshop Control.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\obj\Debug\Photoshop_Control.Form1.resources
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\bin\Debug\InputSimulator.dll
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\bin\Debug\InputSimulator.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\bin\Debug\InputSimulator.xml
+c:\users\victor\documents\visual studio 2013\Projects\Photoshop Control\Photoshop Control\obj\Debug\Photoshop Control.csprojResolveAssemblyReference.cache
+C:\Speech Lucy\Photoshop Control\Photoshop Control\bin\Debug\Photoshop Control.exe.config
+C:\Speech Lucy\Photoshop Control\Photoshop Control\obj\Debug\Photoshop Control.exe
+C:\Speech Lucy\Photoshop Control\Photoshop Control\obj\Debug\Photoshop Control.pdb
+C:\Speech Lucy\Photoshop Control\Photoshop Control\bin\Debug\Photoshop Control.exe
+C:\Speech Lucy\Photoshop Control\Photoshop Control\bin\Debug\Photoshop Control.pdb
+C:\Speech Lucy\Photoshop Control\Photoshop Control\bin\Debug\InputSimulator.dll
+C:\Speech Lucy\Photoshop Control\Photoshop Control\bin\Debug\InputSimulator.pdb
+C:\Speech Lucy\Photoshop Control\Photoshop Control\bin\Debug\InputSimulator.xml
+C:\Speech Lucy\Photoshop Control\Photoshop Control\obj\Debug\Photoshop_Control.Form1.resources
+C:\Speech Lucy\Photoshop Control\Photoshop Control\obj\Debug\Photoshop_Control.Properties.Resources.resources
+C:\Speech Lucy\Photoshop Control\Photoshop Control\obj\Debug\Photoshop Control.csproj.GenerateResource.Cache
+C:\Speech Lucy\Photoshop Control\Photoshop Control\obj\Debug\Photoshop Control.csprojResolveAssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿=================
+ACTIVACIÓN
+=================
+Lucy
+Suspender
+=================
+CATEGORIA 
+*MY PAINT*
+=================
+Copiar
+Pegar
+Coleccion de brochas
+Borrador
+Guardar edicion
+Atras
+Adelante
+Cerrar el editor
+Nueva edicion
+Abrir imagen
+Cambia la vista a pantalla completa
+Cambia a vista normal
+Rotacion izquierda
+Rotacion derecha
+Espejar horizontalmente
+Espejar verticalmente
+Editor de brochas
+Cambia el tamaño a 10
+Cambia el tamaño a 5
+Aumenta la opacidad a 10
+Reduce la opacidad a 5
+Recoger color
+Muestras de color
+Muestrame las capas
+Borrar edicion

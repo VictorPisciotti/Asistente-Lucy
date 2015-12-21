@@ -1,0 +1,40 @@
+﻿<Window x:Name="Recordatorios" x:Class="Notasrapidas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Apuntes" Height="262.065" Width="264.647" WindowStartupLocation="Manual" Cursor="Arrow" Icon="C:\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Imagenes\nota.ico" ResizeMode="NoResize" WindowStyle="None" MouseLeftButtonDown="Recordatorios_MouseLeftButtonDown" AllowsTransparency="True" ShowInTaskbar="False" MouseEnter="Recordatorios_MouseEnter" MouseLeave="Recordatorios_MouseLeave" Loaded="Recordatorios_Loaded" >
+    <Window.Background>
+        <ImageBrush ImageSource="C:\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Imagenes\Renglon.png"/>
+    </Window.Background>
+    <Grid Height="262" VerticalAlignment="Top" RenderTransformOrigin="0.52,0.496" Margin="-8,0,-25,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="tache1" Content="" Margin="12,24,0,0" VerticalAlignment="Top" Click="Button_Click" Height="32" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="38" Foreground="{x:Null}" Cursor="Hand" Focusable="False" IsHitTestVisible="True" IsTabStop="False" Visibility="Hidden">
+            <Button.Background>
+                <ImageBrush ImageSource="C:\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Imagenes\tache.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="tache2" Content="" HorizontalAlignment="Left" Margin="12,81,0,0" VerticalAlignment="Top" Width="38" Click="Button_Click_1" Height="32" BorderBrush="{x:Null}" Foreground="{x:Null}" Cursor="Hand" Focusable="False" IsHitTestVisible="True" IsTabStop="False" Visibility="Hidden">
+            <Button.Background>
+                <ImageBrush ImageSource="C:\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Imagenes\tache2.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="tache3" Content="" HorizontalAlignment="Left" Margin="12,140,0,0" VerticalAlignment="Top" Width="38" Click="Button_Click_2" Height="32" BorderBrush="{x:Null}" Foreground="{x:Null}" Cursor="Hand" IsTabStop="False" IsHitTestVisible="True" Focusable="False" Visibility="Hidden">
+            <Button.Background>
+                <ImageBrush ImageSource="file:///C:/Speech Lucy/Notasrapidas/Notasrapidas/bin/Debug/Imagenes/tache3.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="tache4" Content="" Margin="12,197,248,0" VerticalAlignment="Top" Click="Button_Click_3" Height="32" BorderBrush="{x:Null}" Foreground="{x:Null}" Cursor="Hand" IsHitTestVisible="True" IsTabStop="False" Focusable="False" Visibility="Hidden">
+            <Button.Background>
+                <ImageBrush ImageSource="C:\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Imagenes\tache4.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="box1" Height="43" Margin="59,19,54,0" TextWrapping="Wrap" VerticalAlignment="Top" Background="{x:Null}" SelectionBrush="#FF84FF7E" BorderBrush="#FF17C50E" CaretBrush="#FFE03E3E" Visibility="Hidden"/>
+        <TextBox x:Name="box2" HorizontalAlignment="Left" Height="43" Margin="59,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" Background="{x:Null}" SelectionBrush="#FF7DA9E7" BorderBrush="#FF384DE0" CaretBrush="#FF204FB4" Visibility="Hidden"/>
+        <TextBox x:Name="box3" HorizontalAlignment="Left" Height="43" Margin="59,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" Background="{x:Null}" SelectionBrush="#FFFBFF67" BorderBrush="#FFE3EE0D" CaretBrush="#FFE6D20B" Visibility="Hidden"/>
+        <TextBox x:Name="box4" HorizontalAlignment="Left" Height="43" Margin="59,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" Background="{x:Null}" SelectionBrush="#FF9875D4" BorderBrush="#FF8640DA" CaretBrush="#FF8959F0" Visibility="Hidden"/>
+        <Button x:Name="btnCerrar" Content="X" HorizontalAlignment="Left" Margin="251,2,0,0" VerticalAlignment="Top" Width="18" Background="#FFC72635" Height="18" Click="Button_Click_4" Visibility="Hidden"/>
+
+    </Grid>
+</Window>

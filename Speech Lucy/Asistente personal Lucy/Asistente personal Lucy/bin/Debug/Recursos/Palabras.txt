@@ -1,0 +1,36 @@
+=================                      ===============           ================         ====================       =================   ============================       =================     =================
+CATEGORIA                                         CATEGORIA                   CATEGORIA                                 CATEGORIA                    CATEGORIA                               CATEGORIA                                   CATEGORIA                 CATEGORIA
+*USUARIO*                                              *WEB*                          *WORD*                                  *REPRODUCTOR*              *PHOTOSHOP*                            *SISTEMA*                                   *PROGRAMAS*               *OTROS*
+=================                      ===============           ================         ====================       =================   ============================       =================     =================
+                                                                                                                                                                                                               (Desactivado)
+Hola lucy (Comando para activar)       Youtube                                Negrita                           Pausar cancion                                Pincel                            Cierra todo y apaga el equipo                      My paint                         Modo lectura        
+Restaurar                                                Google                                  Subrayar                         Reanudar cancion                         Borrador                                   Configuracion                                   Abre monect                      Iniciar dictado
+Lucy cierrate                                        Facebook                	     Cursiva                           Siguiente cancion                        Saturacion                                Control de volumen                            Nitro PDF                        Iniciar lectura
+Reiniciar                                                Amazon                                   Deshacer                        Cancion anterior                     Marco rectangular                              Terminal                                         Photoshop                     Leer anotaciones
+Escritorio                                           Revisa mis correos                    Borrar                             Mostrar album                              Recorte                                      Calculadora                                         Maxthon                           Cambiar
+Musica                                       Abre los correos Personales             Centrar                           Modo normal                             Abrir imagen                                Reproductor                                      Power point                        Alarma  
+Documentos                               *  Tengo nuevos correos                   Justificar                             Silenciar                                      Nuevo                               Administrador de tareas                         Abre word                        Abrir Notas
+Imagenes                                        Busqueda por voz                 Alinear a la izquierda       Reproduccion aleatoria             Tamaño de imagen                     Buscar aplicaciones                              Abre excel                          Calendario
+Ocultar                                       No los deseo eliminar              Alinear a la derecha                   Repetir                                       Invertir                                    Panel de control                                                                       Cambiar pestaña
+Minimizar                                   Elimina todos los correos        Interlineado simple               Subir volumen                                                                                     Bloc de notas                                                                                Ciencias
+Restaurar                                                                                                Imprimir                         Bajar volumen                                                                                         Buscar
+Carpeta de usuario
+Que hora es
+Dime la hora
+Dime la fecha
+Que dia es
+Mi equipo
+Programas
+Archivos
+Quien te creo y que eres
+Como te llamas
+Cuentame un chiste
+Dejar de escuchar
+Que puedo decir
+Cerrar
+Cerrar aplicacion
+Cerrar ventana
+Renombrar
+Copiar
+Pegar
+Cortar

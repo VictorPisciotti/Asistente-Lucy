@@ -1,0 +1,189 @@
+﻿================
+CATEGORIA 
+*USUARIO*
+=================
+Hola Lucy
+Lucy
+Suspender
+Desactiva el pasword
+Cierrate
+Cambia el tema a alto contraste
+Cierra todo y apaga el equipo
+Vacia la papelera
+Dejar de escuchar
+Configuracion
+Reiniciar
+================
+CATEGORIA 
+*INFORMACION*
+=================
+Dime la informacion del equipo
+Informacion del sistema
+Dispositivos
+Recuerdas mi nombre
+Sabes cual es mi nombre
+Menu de aplicaciones
+Dime la hora
+Que hora es
+Dime la fecha
+Que dia es
+Quien te creo y que eres
+Como te llamas
+Que puedo decir
+================
+CATEGORIA 
+*COMUNES*
+=================
+Operaciones basicas
+Dime el resultado
+Escritorio
+Ciencias
+Ocultar
+Panel de control
+Mi equipo
+Programas
+Abre mis Archivos
+Carpeta de usuario
+Documentos
+Imagenes
+Coleccion
+Minimizar
+Restaurar
+Abrir Notas
+Calendario
+Alarma
+================
+CATEGORIA 
+*APLICACIONES*
+=================
+Coleccion musical
+Administrador de tareas
+Calculadora
+Mai peint
+Abre monect
+Bloc de notas
+Nitro PDF
+Reproductor
+Photoshop
+Maxthon
+================
+CATEGORIA 
+*OFFICE*
+=================
+Power point
+Nueva diapositiva
+Abre word
+Abre excel
+================
+CATEGORIA 
+*SISTEMA*
+=================
+No me interesas
+Cuentame un chiste
+Laboratorio**********************
+Cambiar
+Renombrar
+Buscar
+Copiar
+Copia eso
+Pegar
+Cortar
+Terminal
+Buscar aplicaciones
+Control de volumen
+Cerrar
+Cierra eso
+Cerrar aplicacion
+Cerrar ventana
+Lee esto
+Modo lectura
+Iniciar dictado
+Leer anotaciones
+=================
+CATEGORIA 
+*WEB*
+=================
+Youtube
+*Abre Google
+Facebook
+Amazon
+Cambiar pestaña
+Revisa mis correos
+Tengo algun correo
+Abre los correos personales
+Elimina todos los correos
+No los deseo eliminar
+Busqueda por voz
+================
+CATEGORIA 
+*WORD*
+=================
+Negrita
+Subrayar
+Cursiva
+Deshacer
+Borrar
+Centrar
+Justificar
+Alinear a la izquierda
+Alinear a la derecha
+Imprimir
+Interlineado simple
+=================
+CATEGORIA 
+*PHOTOSHOP*
+=================
+Pincel
+Borrador
+Saturacion
+Marco rectangular
+Recorte
+Abrir imagen
+Nuevo
+Tamaño de imagen
+Invertir
+=================
+CATEGORIA 
+*MUSICA*
+=================
+Play music Nach
+Play music parmor
+Play music morodo
+Play music zona ganjah
+Play music regue
+Play music tres coronas
+Play music doble v
+Play music cultura profetica
+Play music los aldeanos
+Play music canserbero
+Play music barrington Levy
+Play music bob Marly
+Play music jipjap
+Play music arenbi
+Play music treysong
+Play music tempo
+Pausar cancion
+Reanudar cancion
+Siguiente cancion
+Cancion anterior
+Reproduccion aleatoria
+Repetir
+Silenciar
+Mostrar album
+Modo normal
+Subir volumen
+Bajar volumen
+=================
+CATEGORIA 
+*ARDUINO*
+=================
+Enciende las luces
+Enciende las luces dos
+Enciende las luces tres
+Enciende las luces cuatro
+Enciende todas las luces
+Apaga las luces
+Apaga las luces dos
+Apaga las luces tres
+Apaga las luces cuatro
+Apaga todas las luces

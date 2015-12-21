@@ -1,0 +1,18 @@
+c:\users\victor\documents\visual studio 2013\Projects\CorreoOutLook\CorreoOutLook\bin\Debug\CorreoOutLook.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\CorreoOutLook\CorreoOutLook\bin\Debug\CorreoOutLook.exe
+c:\users\victor\documents\visual studio 2013\Projects\CorreoOutLook\CorreoOutLook\bin\Debug\CorreoOutLook.pdb
+c:\users\victor\documents\visual studio 2013\Projects\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2013\Projects\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.Form1.resources
+c:\users\victor\documents\visual studio 2013\Projects\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.exe
+c:\users\victor\documents\visual studio 2013\Projects\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.pdb
+C:\Speech Lucy\CorreoOutLook\CorreoOutLook\bin\Debug\CorreoOutLook.exe
+C:\Speech Lucy\CorreoOutLook\CorreoOutLook\bin\Debug\CorreoOutLook.exe.config
+C:\Speech Lucy\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.Form1.resources
+C:\Speech Lucy\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.Properties.Resources.resources
+C:\Speech Lucy\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.csproj.GenerateResource.Cache
+C:\Speech Lucy\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.exe
+C:\Speech Lucy\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.pdb
+C:\Speech Lucy\CorreoOutLook\CorreoOutLook\bin\Debug\CorreoOutLook.pdb
+C:\Speech Lucy\CorreoOutLook\CorreoOutLook\obj\Debug\CorreoOutLook.csprojResolveAssemblyReference.cache

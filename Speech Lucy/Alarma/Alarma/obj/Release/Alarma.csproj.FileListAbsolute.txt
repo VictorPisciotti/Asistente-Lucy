@@ -1,0 +1,12 @@
+C:\Speech Lucy\Alarma\Alarma\bin\Release\Alarma.exe.config
+C:\Speech Lucy\Alarma\Alarma\bin\Release\Alarma.exe
+C:\Speech Lucy\Alarma\Alarma\bin\Release\Alarma.pdb
+C:\Speech Lucy\Alarma\Alarma\obj\Release\MainWindow.baml
+C:\Speech Lucy\Alarma\Alarma\obj\Release\MainWindow.g.cs
+C:\Speech Lucy\Alarma\Alarma\obj\Release\App.g.cs
+C:\Speech Lucy\Alarma\Alarma\obj\Release\Alarma_MarkupCompile.cache
+C:\Speech Lucy\Alarma\Alarma\obj\Release\Alarma.g.resources
+C:\Speech Lucy\Alarma\Alarma\obj\Release\Alarma.Properties.Resources.resources
+C:\Speech Lucy\Alarma\Alarma\obj\Release\Alarma.csproj.GenerateResource.Cache
+C:\Speech Lucy\Alarma\Alarma\obj\Release\Alarma.exe
+C:\Speech Lucy\Alarma\Alarma\obj\Release\Alarma.pdb

@@ -1,0 +1,18 @@
+c:\users\victor\documents\visual studio 2013\Projects\Ciencias\Ciencias\bin\Debug\Ciencias.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\Ciencias\Ciencias\bin\Debug\Ciencias.exe
+c:\users\victor\documents\visual studio 2013\Projects\Ciencias\Ciencias\bin\Debug\Ciencias.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Ciencias\Ciencias\obj\Debug\Ciencias.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2013\Projects\Ciencias\Ciencias\obj\Debug\Ciencias.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\Ciencias\Ciencias\obj\Debug\Ciencias.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\Ciencias\Ciencias\obj\Debug\Ciencias.exe
+c:\users\victor\documents\visual studio 2013\Projects\Ciencias\Ciencias\obj\Debug\Ciencias.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Ciencias\Ciencias\obj\Debug\Ciencias.Electricidad.resources
+C:\Speech Lucy\Ciencias\Ciencias\bin\Debug\Ciencias.exe.config
+C:\Speech Lucy\Ciencias\Ciencias\obj\Debug\Ciencias.exe
+C:\Speech Lucy\Ciencias\Ciencias\obj\Debug\Ciencias.pdb
+C:\Speech Lucy\Ciencias\Ciencias\bin\Debug\Ciencias.exe
+C:\Speech Lucy\Ciencias\Ciencias\bin\Debug\Ciencias.pdb
+C:\Speech Lucy\Ciencias\Ciencias\obj\Debug\Ciencias.csprojResolveAssemblyReference.cache
+C:\Speech Lucy\Ciencias\Ciencias\obj\Debug\Ciencias.Electricidad.resources
+C:\Speech Lucy\Ciencias\Ciencias\obj\Debug\Ciencias.Properties.Resources.resources
+C:\Speech Lucy\Ciencias\Ciencias\obj\Debug\Ciencias.csproj.GenerateResource.Cache

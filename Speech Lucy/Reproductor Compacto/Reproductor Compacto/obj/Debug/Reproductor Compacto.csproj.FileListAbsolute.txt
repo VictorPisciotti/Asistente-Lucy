@@ -1,0 +1,24 @@
+c:\users\victor\documents\visual studio 2013\Projects\Reproductor Compacto\Reproductor Compacto\bin\Debug\Reproductor Compacto.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\Reproductor Compacto\Reproductor Compacto\bin\Debug\Reproductor Compacto.exe
+c:\users\victor\documents\visual studio 2013\Projects\Reproductor Compacto\Reproductor Compacto\bin\Debug\Reproductor Compacto.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor_Compacto.ReproductorMini.resources
+c:\users\victor\documents\visual studio 2013\Projects\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor_Compacto.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor Compacto.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor Compacto.exe
+c:\users\victor\documents\visual studio 2013\Projects\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor Compacto.pdb
+C:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\bin\Debug\Reproductor Compacto.exe.config
+C:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor Compacto.exe
+C:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor Compacto.pdb
+C:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\bin\Debug\Reproductor Compacto.exe
+C:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\bin\Debug\Reproductor Compacto.pdb
+C:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor_Compacto.ReproductorMini.resources
+C:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor_Compacto.Properties.Resources.resources
+C:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor Compacto.csproj.GenerateResource.Cache
+E:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\bin\Debug\Reproductor Compacto.exe.config
+E:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor Compacto.exe
+E:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor Compacto.pdb
+E:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\bin\Debug\Reproductor Compacto.exe
+E:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\bin\Debug\Reproductor Compacto.pdb
+E:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor_Compacto.ReproductorMini.resources
+E:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor_Compacto.Properties.Resources.resources
+E:\Speech Lucy\Reproductor Compacto\Reproductor Compacto\obj\Debug\Reproductor Compacto.csproj.GenerateResource.Cache

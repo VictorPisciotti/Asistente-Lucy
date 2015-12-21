@@ -1,0 +1,29 @@
+﻿<Window x:Class="Bluetooth_Demo.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Bluetooth Demo" Height="259" Width="685" Icon="/Bluetooth-Demo;component/Bluetooth-Icon.ico" ResizeMode="NoResize">
+    <Grid>
+        <Button Margin="251,10,270,0" x:Name="btn_find" Height="23" VerticalAlignment="Top" Click="btn_find_Click" Content="Buscar Dispositivos"/>
+        <ProgressBar Height="26" Margin="251,182,15,0" Name="pb" VerticalAlignment="Top" IsIndeterminate="True" Visibility="Hidden" />
+        <ListBox SelectionChanged="device_list_SelectionChanged" Margin="13,10,0,0" Name="device_list" HorizontalAlignment="Left" Width="224" Height="198" VerticalAlignment="Top" />
+        <Label Height="28" Margin="251,51,258,0" x:Name="label1" VerticalAlignment="Top" Content="Nombre:"/>
+        <Label Height="28" HorizontalAlignment="Right" Margin="0,85,175,0" x:Name="label2" VerticalAlignment="Top" Width="73" Content="Conectado:"/>
+        <Label Height="28" Margin="251,85,258,0" x:Name="label3" VerticalAlignment="Top" Content="Autenticado:"/>
+        <Label HorizontalAlignment="Right" Margin="0,116,64,0" x:Name="label4" Width="88" Height="25" VerticalAlignment="Top" Content="Recordado:"/>
+        <Label Margin="251,113,280,0" Name="label5" Height="28" VerticalAlignment="Top">Nap:</Label>
+        <Label HorizontalAlignment="Right" Margin="0,113,258,0" Name="label6" Width="64" Height="28" VerticalAlignment="Top">Sap:</Label>
+        <Label Margin="251,146,0,0" x:Name="label7" HorizontalAlignment="Left" Width="67" Height="28" VerticalAlignment="Top" Content="Registro:"/>
+        <Label HorizontalAlignment="Right" Margin="0,146,144,0" x:Name="label8" Width="71" Height="25" VerticalAlignment="Top" Content="Ultimo uso:"/>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,54,64,0" Name="txt_devicename" VerticalAlignment="Top" Width="262" IsReadOnly="True" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,87,101,0" Name="txt_connected" VerticalAlignment="Top" Width="66" IsReadOnly="True" />
+        <TextBox HorizontalAlignment="Right" Margin="0,116,24,0" Name="txt_remembered" Width="46" Height="25" VerticalAlignment="Top" IsReadOnly="True" />
+        <TextBox HorizontalAlignment="Right" Margin="0,87,258,0" Name="txt_authenticated" Width="68" Height="26" VerticalAlignment="Top" IsReadOnly="True" />
+        <TextBox Margin="290,118,330,0" Name="txt_nap" Height="23" VerticalAlignment="Top" IsReadOnly="True" />
+        <TextBox HorizontalAlignment="Right" Margin="0,118,159,0" Name="txt_sap" Width="130" Height="23" VerticalAlignment="Top" IsReadOnly="True" />
+        <TextBox Margin="316,148,211,0" Name="txt_lastseen" Height="23" VerticalAlignment="Top" IsReadOnly="True" />
+        <TextBox HorizontalAlignment="Right" Margin="0,151,15,0" Name="txt_lastused" Width="129" Height="23" VerticalAlignment="Top" IsReadOnly="True" />
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,10,188,0" x:Name="btn_browse" VerticalAlignment="Top" Width="75" Click="btn_browse_Click" Content="Archivo..."/>
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,10,101,0" x:Name="btn_send" VerticalAlignment="Top" Width="75" Click="btn_send_Click" IsEnabled="False" Content="Enviar"/>
+        <Label x:Name="lbRuta" Content="Ruta" HorizontalAlignment="Left" Margin="264,182,0,0" VerticalAlignment="Top" Width="391"/>
+    </Grid>
+</Window>

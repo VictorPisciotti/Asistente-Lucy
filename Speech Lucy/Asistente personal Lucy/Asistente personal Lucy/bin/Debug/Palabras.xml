@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<grammar version="1.0" xml:lang="es-ES"
+	xmlns="http://www.w3.org/2001/06/grammar"
+	tag-format="semantics/1.0" root="Main">
+
+  <rule id="Main">
+   <item>
+     <ruleref uri="#Numbers"/>
+   </item>
+  </rule>
+
+  <rule id="Numbers" scope="public">
+   <one-of>
+
+     <item>Sumar</item>
+     <item>Sumalos</item>
+     <item>Restar</item>
+     <item>Restalos</item>
+     <item>Multiplicar</item>
+     <item>Multiplicalos</item>
+     <item>Dividir</item>
+     <item>Dividelos</item>
+     <item>Dameladivisiondelprimernumero</item>
+     <item>Dameladivisiondelsegundonumero</item>
+     <item>Damelarestadelprimernumero</item>
+     <item>Damelarestadelsegundonumero</item>
+     <item>Raizcuadrada</item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+     <item>  </item>
+
+
+
+   </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,29 @@
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\bin\Debug\CalendarioLucy.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\bin\Debug\CalendarioLucy.exe
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\bin\Debug\CalendarioLucy.pdb
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\MainWindow.baml
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\MainWindow.g.cs
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\App.g.cs
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy_MarkupCompile.cache
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.g.resources
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.exe
+c:\users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.pdb
+C:\Users\victor\documents\visual studio 2013\Projects\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Speech Lucy\CalendarioLucy\CalendarioLucy\bin\Debug\CalendarioLucy.exe.config
+C:\Program Files (x86)\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.exe
+C:\Program Files (x86)\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.pdb
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\bin\Debug\CalendarioLucy.exe.config
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.exe
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.pdb
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\bin\Debug\CalendarioLucy.exe
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\bin\Debug\CalendarioLucy.pdb
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.csprojResolveAssemblyReference.cache
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\MainWindow.baml
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\MainWindow.g.cs
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\App.g.cs
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy_MarkupCompile.cache
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.g.resources
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.Properties.Resources.resources
+C:\Speech Lucy\CalendarioLucy\CalendarioLucy\obj\Debug\CalendarioLucy.csproj.GenerateResource.Cache

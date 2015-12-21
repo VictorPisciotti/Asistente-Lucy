@@ -1,0 +1,18 @@
+c:\users\victor\documents\visual studio 2013\Projects\Youtube\Youtube\bin\Debug\Youtube.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\Youtube\Youtube\bin\Debug\Youtube.exe
+c:\users\victor\documents\visual studio 2013\Projects\Youtube\Youtube\bin\Debug\Youtube.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Youtube\Youtube\obj\Debug\Youtube.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2013\Projects\Youtube\Youtube\obj\Debug\Youtube.YouTube.resources
+c:\users\victor\documents\visual studio 2013\Projects\Youtube\Youtube\obj\Debug\Youtube.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\Youtube\Youtube\obj\Debug\Youtube.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\Youtube\Youtube\obj\Debug\Youtube.exe
+c:\users\victor\documents\visual studio 2013\Projects\Youtube\Youtube\obj\Debug\Youtube.pdb
+C:\Speech Lucy\Youtube\Youtube\bin\Debug\Youtube.exe.config
+C:\Speech Lucy\Youtube\Youtube\obj\Debug\Youtube.exe
+C:\Speech Lucy\Youtube\Youtube\obj\Debug\Youtube.pdb
+C:\Speech Lucy\Youtube\Youtube\bin\Debug\Youtube.exe
+C:\Speech Lucy\Youtube\Youtube\bin\Debug\Youtube.pdb
+C:\Speech Lucy\Youtube\Youtube\obj\Debug\Youtube.YouTube.resources
+C:\Speech Lucy\Youtube\Youtube\obj\Debug\Youtube.Properties.Resources.resources
+C:\Speech Lucy\Youtube\Youtube\obj\Debug\Youtube.csproj.GenerateResource.Cache
+C:\Speech Lucy\Youtube\Youtube\obj\Debug\Youtube.csprojResolveAssemblyReference.cache

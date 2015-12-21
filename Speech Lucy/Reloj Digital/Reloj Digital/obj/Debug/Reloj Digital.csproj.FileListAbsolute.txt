@@ -1,0 +1,18 @@
+c:\users\victor\documents\visual studio 2013\Projects\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe
+c:\users\victor\documents\visual studio 2013\Projects\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Form1.resources
+c:\users\victor\documents\visual studio 2013\Projects\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.exe
+c:\users\victor\documents\visual studio 2013\Projects\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.csprojResolveAssemblyReference.cache
+C:\Speech Lucy\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe.config
+C:\Speech Lucy\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.exe
+C:\Speech Lucy\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.pdb
+C:\Speech Lucy\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe
+C:\Speech Lucy\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Properties.Resources.resources
+C:\Speech Lucy\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.csproj.GenerateResource.Cache
+C:\Speech Lucy\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.pdb
+C:\Speech Lucy\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Reloj.resources
+C:\Speech Lucy\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Calendar.resources

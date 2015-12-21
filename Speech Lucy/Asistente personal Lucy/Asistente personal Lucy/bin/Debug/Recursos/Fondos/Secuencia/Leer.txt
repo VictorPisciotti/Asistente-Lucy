@@ -1,0 +1,5 @@
+Para cambiar la imagen es necesario los siguientes requisitos:
+
+1) Que sea en formato .gif 
+2) Resolucion de 1920x1080 (Para evitar que se vea estirada)
+3) El mismo nombre "Usuario"

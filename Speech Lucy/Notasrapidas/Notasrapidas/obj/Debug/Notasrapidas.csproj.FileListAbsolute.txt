@@ -1,0 +1,37 @@
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\bin\Debug\Notasrapidas.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\bin\Debug\Notasrapidas.exe
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\bin\Debug\Notasrapidas.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\obj\Debug\MainWindow.baml
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\obj\Debug\MainWindow.g.cs
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\obj\Debug\App.g.cs
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas_MarkupCompile.cache
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.g.resources
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.exe
+c:\users\victor\documents\visual studio 2013\Projects\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.pdb
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Notasrapidas.exe.config
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.exe
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.pdb
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Notasrapidas.exe
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Notasrapidas.pdb
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\MainWindow.baml
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\MainWindow.g.cs
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\App.g.cs
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas_MarkupCompile.cache
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.g.resources
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.Properties.Resources.resources
+C:\Program Files (x86)\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.csproj.GenerateResource.Cache
+C:\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Notasrapidas.exe.config
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.exe
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.pdb
+C:\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Notasrapidas.exe
+C:\Speech Lucy\Notasrapidas\Notasrapidas\bin\Debug\Notasrapidas.pdb
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\MainWindow.baml
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\MainWindow.g.cs
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\App.g.cs
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas_MarkupCompile.cache
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.g.resources
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.Properties.Resources.resources
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.csproj.GenerateResource.Cache
+C:\Speech Lucy\Notasrapidas\Notasrapidas\obj\Debug\Notasrapidas.csprojResolveAssemblyReference.cache

@@ -1,0 +1,100 @@
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.exe
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Asistente_virtual.resources
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Calendario.resources
+c:\users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.AlarmaLucy.resources
+C:\Users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Funcionsuspender.resources
+C:\Users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.BusquedaGoogle.resources
+C:\Users\victor\documents\visual studio 2013\Projects\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe.config
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.exe
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.pdb
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.pdb
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.AlarmaLucy.resources
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.BusquedaGoogle.resources
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Calendario.resources
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Asistente_virtual.resources
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Funcionsuspender.resources
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Properties.Resources.resources
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csprojResolveAssemblyReference.cache
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe.config
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.pdb
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.dll
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.pdb
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.xml
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Interop.WMPLib.dll
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\AxInterop.WMPLib.dll
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csprojResolveAssemblyReference.cache
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Interop.WMPLib.dll
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\AxInterop.WMPLib.dll
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.ResolveComReference.cache
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Ayuda.resources
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.BusquedaGoogle.resources
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Calculos.resources
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Dictado.resources
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Asistente_virtual.resources
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Login.resources
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Menu_aplicaciones.resources
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Musica.resources
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Properties.Resources.resources
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.GenerateResource.Cache
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.exe
+E:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.pdb
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe.config
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.pdb
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.dll
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.pdb
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.xml
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Interop.WMPLib.dll
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\AxInterop.WMPLib.dll
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csprojResolveAssemblyReference.cache
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Interop.WMPLib.dll
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\AxInterop.WMPLib.dll
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.ResolveComReference.cache
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Ayuda.resources
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.BusquedaGoogle.resources
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Calculos.resources
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Dictado.resources
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Asistente_virtual.resources
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Login.resources
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Menu_aplicaciones.resources
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Musica.resources
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Properties.Resources.resources
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.GenerateResource.Cache
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.exe
+C:\Speech Lucy33\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.pdb
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe.config
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.pdb
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.dll
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.pdb
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.xml
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Interop.WMPLib.dll
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\AxInterop.WMPLib.dll
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Interop.MediaPlayer.dll
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Interop.WMPLib.dll
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\AxInterop.WMPLib.dll
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.ResolveComReference.cache
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Ayuda.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.BusquedaGoogle.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Calculos.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Dictado.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Intro.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.IntroMusica.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Asistente_virtual.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Login.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Menu_aplicaciones.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Musica.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Properties.Resources.resources
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.GenerateResource.Cache
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.exe
+C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.pdb

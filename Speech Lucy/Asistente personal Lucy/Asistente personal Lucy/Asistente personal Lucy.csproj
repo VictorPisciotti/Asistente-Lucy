@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6697855-709E-4C0C-9461-9C2AB2D75CD5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Asistente_personal_Lucy</RootNamespace>
+    <AssemblyName>Asistente personal Lucy</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Notificacion 1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="InputSimulator">
+      <HintPath>InputSimulator.0.1.0.0-bin\Debug\InputSimulator.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Presentation" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayuda.Designer.cs">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda Google.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda Google.Designer.cs">
+      <DependentUpon>Busqueda Google.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculos.Designer.cs">
+      <DependentUpon>Calculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comandos_Arduino.cs" />
+    <Compile Include="Dictado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dictado.Designer.cs">
+      <DependentUpon>Dictado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Intro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intro.Designer.cs">
+      <DependentUpon>Intro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntroMusica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IntroMusica.Designer.cs">
+      <DependentUpon>IntroMusica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lucy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lucy.Designer.cs">
+      <DependentUpon>Lucy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maximizar.cs" />
+    <Compile Include="Menu aplicaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu aplicaciones.Designer.cs">
+      <DependentUpon>Menu aplicaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musica.Designer.cs">
+      <DependentUpon>Musica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resolution.cs" />
+    <Compile Include="Tono de Inicio.cs" />
+    <EmbeddedResource Include="Ayuda.resx">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda Google.resx">
+      <DependentUpon>Busqueda Google.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculos.resx">
+      <DependentUpon>Calculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dictado.resx">
+      <DependentUpon>Dictado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Intro.resx">
+      <DependentUpon>Intro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IntroMusica.resx">
+      <DependentUpon>IntroMusica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lucy.resx">
+      <DependentUpon>Lucy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu aplicaciones.resx">
+      <DependentUpon>Menu aplicaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musica.resx">
+      <DependentUpon>Musica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="bin\Debug\Recursos\Lucy\Lineas de tiempo Lucy.psd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Recursos\Imagenes\altavoz.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\1.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\2.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\3.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\4.jpg" />
+    <None Include="bin\Debug\Recursos\Imagenes\5.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\6.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\7.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\10.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\Actualizar.PNG" />
+    <None Include="bin\Debug\Recursos\Imagenes\Add.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\Add1.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\Adelante.PNG" />
+    <None Include="bin\Debug\Recursos\Imagenes\Ajustes.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\Ajustes2.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\Antena.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\Atras.PNG" />
+    <None Include="bin\Debug\Recursos\Imagenes\CoverMusica.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\GlassFondo.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\Guardar.PNG" />
+    <None Include="bin\Debug\Recursos\Imagenes\home.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\info.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\login.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\mic2.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\minimizar.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\Next.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\Notificacion 1.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\Pause.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\Play.PNG" />
+    <None Include="bin\Debug\Recursos\Imagenes\Previous.PNG" />
+    <None Include="bin\Debug\Recursos\Imagenes\Radio.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\Save.PNG" />
+    <None Include="bin\Debug\Recursos\Imagenes\Stop.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\Tapiz 1.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\Vumetro fijo.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\Vumetro-1.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\Vumetro-L.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\Vumetro-R.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\Vumetro-Rapido.gif" />
+    <None Include="bin\Debug\Recursos\Imagenes\YouTube.png" />
+    <None Include="bin\Debug\Recursos\Imagenes\YouTube-Logo.gif" />
+    <Content Include="bin\Debug\9.png" />
+    <Content Include="bin\Debug\Recursos\Album\3 coronas.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Afaz.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Alcolirykoz.gif" />
+    <Content Include="bin\Debug\Recursos\Album\aldeanos.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Barrington.gif" />
+    <Content Include="bin\Debug\Recursos\Album\bob marley.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Canserbero.gif" />
+    <Content Include="bin\Debug\Recursos\Album\chulito.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Clementino.gif" />
+    <Content Include="bin\Debug\Recursos\Album\cultura profetica.gif" />
+    <Content Include="bin\Debug\Recursos\Album\descarga.gif" />
+    <Content Include="bin\Debug\Recursos\Album\doble V.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Eminem.gif" />
+    <Content Include="bin\Debug\Recursos\Album\la etnia.gif" />
+    <Content Include="bin\Debug\Recursos\Album\mala.gif" />
+    <Content Include="bin\Debug\Recursos\Album\MO.gif" />
+    <Content Include="bin\Debug\Recursos\Album\morodo.gif" />
+    <Content Include="bin\Debug\Recursos\Album\nach.gif" />
+    <Content Include="bin\Debug\Recursos\Album\nonpalidece.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Norykko.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Nota 2.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Nota.gif" />
+    <Content Include="bin\Debug\Recursos\Album\paramore.gif" />
+    <Content Include="bin\Debug\Recursos\Album\PlayList.gif" />
+    <Content Include="bin\Debug\Recursos\Album\R &amp; B.gif" />
+    <Content Include="bin\Debug\Recursos\Album\reggae 1.gif" />
+    <Content Include="bin\Debug\Recursos\Album\reggae 2.gif" />
+    <Content Include="bin\Debug\Recursos\Album\reggae 3.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Rock.gif" />
+    <Content Include="bin\Debug\Recursos\Album\santaflow.gif" />
+    <Content Include="bin\Debug\Recursos\Album\skap.gif" />
+    <Content Include="bin\Debug\Recursos\Album\swan.gif" />
+    <Content Include="bin\Debug\Recursos\Album\tempo.gif" />
+    <Content Include="bin\Debug\Recursos\Album\the birthday massacre.gif" />
+    <Content Include="bin\Debug\Recursos\Album\Trey Songz.gif" />
+    <Content Include="bin\Debug\Recursos\Album\xplicitos.gif" />
+    <Content Include="bin\Debug\Recursos\Album\ZG.gif" />
+    <Content Include="bin\Debug\Recursos\Asunto 1.txt" />
+    <Content Include="bin\Debug\Recursos\Asunto 2.txt" />
+    <Content Include="bin\Debug\Recursos\Asunto 3.txt" />
+    <Content Include="bin\Debug\Recursos\Asunto 4.txt" />
+    <Content Include="bin\Debug\Recursos\Ayuda.htm" />
+    <Content Include="bin\Debug\Recursos\Comandos.txt" />
+    <Content Include="bin\Debug\Recursos\Contraseña.txt" />
+    <Content Include="bin\Debug\Recursos\Display Green\0.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\1.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\2.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\3.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\4.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\5.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\6.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\7.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\8.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\9.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\Cero.png" />
+    <Content Include="bin\Debug\Recursos\Display Green\Uno.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\0.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\1.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\2.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\3.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\4.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\5.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\6.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\7.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\8.png" />
+    <Content Include="bin\Debug\Recursos\Display Red\9.png" />
+    <Content Include="bin\Debug\Recursos\Division 1.txt" />
+    <Content Include="bin\Debug\Recursos\Division 2.txt" />
+    <Content Include="bin\Debug\Recursos\Eventos Calendario.txt" />
+    <Content Include="bin\Debug\Recursos\Fondos\Alta Resolucion\Tapiz %281920x1080%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Alta Resolucion\Tapiz 1 %281920x1080%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Alta Resolucion\Tapiz 2 %281920x1080%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Alta Resolucion\Tapiz 3 %281920x1080%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Alta Resolucion\Tapiz 6 %281920x1080%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Tapiz %281366x768%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Tapiz 1 %281366x768%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Tapiz 2 %281366x768%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Tapiz 3 %281366x768%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Tapiz 4 Mosaico.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Tapiz 5 Mosaico.jpg" />
+    <Content Include="bin\Debug\Recursos\Fondos\Tapiz 6 %281366x768%29.jpg" />
+    <Content Include="bin\Debug\Recursos\Imagenes\Banner Intro.png" />
+    <Content Include="bin\Debug\Recursos\Imagenes\Google.ico" />
+    <Content Include="bin\Debug\Recursos\Imagenes\Hablar.ico" />
+    <Content Include="bin\Debug\Recursos\Imagenes\Musica.ico" />
+    <Content Include="bin\Debug\Recursos\Imagenes\Notificacion 1.ico" />
+    <Content Include="bin\Debug\Recursos\Imagenes\Operaciones.ico" />
+    <Content Include="bin\Debug\Recursos\Imagenes\Splash.PNG" />
+    <Content Include="bin\Debug\Recursos\Lucy\Lucy Inicio Statica 2.png" />
+    <Content Include="bin\Debug\Recursos\Lucy\Lucy Inicio Statica.png" />
+    <Content Include="bin\Debug\Recursos\Lucy\Lucy-1 Parpadeo.gif" />
+    <Content Include="bin\Debug\Recursos\Lucy\Lucy-1-Parpadeo-2.gif" />
+    <Content Include="bin\Debug\Recursos\Lucy\Lucy-Inicio-2.gif" />
+    <Content Include="bin\Debug\Recursos\Lucy\Lucy-Inicio-largo.gif" />
+    <Content Include="bin\Debug\Recursos\Lucy\Lucy-Inicio.gif" />
+    <Content Include="bin\Debug\Recursos\Lucy\Lucy-Okey.gif" />
+    <Content Include="bin\Debug\Recursos\Multiplicacion.txt" />
+    <Content Include="bin\Debug\Recursos\NombreUser.txt" />
+    <Content Include="bin\Debug\Recursos\Palabras.txt" />
+    <Content Include="bin\Debug\Recursos\Portapapeles Dictado.txt" />
+    <Content Include="bin\Debug\Recursos\Que puedo decir.txt" />
+    <Content Include="bin\Debug\Recursos\Raiz1.txt" />
+    <Content Include="bin\Debug\Recursos\Raiz2.txt" />
+    <Content Include="bin\Debug\Recursos\Resta 1.txt" />
+    <Content Include="bin\Debug\Recursos\Resta 2.txt" />
+    <Content Include="bin\Debug\Recursos\Song\End.wav" />
+    <Content Include="bin\Debug\Recursos\Song\Start.wav" />
+    <Content Include="bin\Debug\Recursos\Suma.txt" />
+    <Content Include="bin\Debug\Recursos\Tema.txt" />
+    <Content Include="bin\Debug\Recursos\Usuario.txt" />
+    <Content Include="InputSimulator.0.1.0.0-bin\Debug\InputSimulator.dll" />
+    <Content Include="InputSimulator.0.1.0.0-bin\Debug\InputSimulator.pdb" />
+    <Content Include="InputSimulator.0.1.0.0-bin\Debug\InputSimulator.XML" />
+    <Content Include="InputSimulator.0.1.0.0-bin\Release\InputSimulator.dll" />
+    <Content Include="InputSimulator.0.1.0.0-bin\Release\InputSimulator.pdb" />
+    <Content Include="InputSimulator.0.1.0.0-bin\Release\InputSimulator.XML" />
+    <Content Include="lucyicon.ico" />
+    <Content Include="Notificacion 1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MediaPlayer">
+      <Guid>{22D6F304-B0F6-11D0-94AB-0080C74C7E95}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,64 @@
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\ResolveAssemblyReference.cache
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.baml
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.g.cs
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\App.g.cs
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo_MarkupCompile.cache
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.g.resources
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth_Demo.Properties.Resources.resources
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.csproj.GenerateResource.Cache
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.exe
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.pdb
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\InTheHand.Net.Bluetooth.dll
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\InTheHand.Net.Forms.dll
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\InTheHand.Net.IrDA.dll
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\InTheHand.Net.ObjectExchange.dll
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.exe
+D:\Shai Raiten\Documents\Visual Studio 2008\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.pdb
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.exe
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.pdb
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.exe
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.pdb
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.csprojResolveAssemblyReference.cache
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.baml
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.g.cs
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\App.g.cs
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo_MarkupCompile.cache
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.g.resources
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth_Demo.Properties.Resources.resources
+C:\Users\Victor Pisciotti\Desktop\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.csproj.GenerateResource.Cache
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.exe
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.pdb
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.exe
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.pdb
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.csprojResolveAssemblyReference.cache
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.baml
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.g.cs
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\App.g.cs
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo_MarkupCompile.cache
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.g.resources
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth_Demo.Properties.Resources.resources
+C:\Users\Victor Pisciotti\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.csproj.GenerateResource.Cache
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.exe
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.pdb
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.exe
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.pdb
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.baml
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.g.cs
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\App.g.cs
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo_MarkupCompile.cache
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.g.resources
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth_Demo.Properties.Resources.resources
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.csproj.GenerateResource.Cache
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.exe
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.pdb
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.exe
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\bin\Debug\Bluetooth-Demo.pdb
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.csprojResolveAssemblyReference.cache
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.baml
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Window1.g.cs
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\App.g.cs
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo_MarkupCompile.cache
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.g.resources
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth_Demo.Properties.Resources.resources
+C:\Speech Lucy\Bluetooth-Demo\Bluetooth-Demo\obj\Debug\Bluetooth-Demo.csproj.GenerateResource.Cache

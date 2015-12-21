@@ -1,0 +1,38 @@
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\bin\Debug\Alarma.exe.config
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\bin\Debug\Alarma.exe
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\bin\Debug\Alarma.pdb
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\MainWindow.baml
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\MainWindow.g.cs
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\App.g.cs
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\Alarma_MarkupCompile.cache
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\Alarma.g.resources
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\Alarma.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\Alarma.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\Alarma.exe
+c:\users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\Alarma.pdb
+C:\Users\victor\documents\visual studio 2013\Projects\Alarma\Alarma\obj\Debug\Alarma.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\bin\Debug\Alarma.exe.config
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.exe
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.pdb
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\bin\Debug\Alarma.exe
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\MainWindow.baml
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\MainWindow.g.cs
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\App.g.cs
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma_MarkupCompile.cache
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.g.resources
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.Properties.Resources.resources
+C:\Program Files (x86)\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.csproj.GenerateResource.Cache
+C:\Speech Lucy\Alarma\Alarma\bin\Debug\Alarma.exe.config
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.exe
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.pdb
+C:\Speech Lucy\Alarma\Alarma\bin\Debug\Alarma.exe
+C:\Speech Lucy\Alarma\Alarma\bin\Debug\Alarma.pdb
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\MainWindow.baml
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\MainWindow.g.cs
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\App.g.cs
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma_MarkupCompile.cache
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.g.resources
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.Properties.Resources.resources
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.csproj.GenerateResource.Cache
+C:\Speech Lucy\Alarma\Alarma\obj\Debug\Alarma.csprojResolveAssemblyReference.cache
