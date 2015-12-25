@@ -98,3 +98,30 @@ C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asisten
 C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.GenerateResource.Cache
 C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.exe
 C:\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.pdb
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe.config
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.exe
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Asistente personal Lucy.pdb
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.dll
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.pdb
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\InputSimulator.xml
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\Interop.WMPLib.dll
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\bin\Debug\AxInterop.WMPLib.dll
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csprojResolveAssemblyReference.cache
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Interop.MediaPlayer.dll
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Interop.WMPLib.dll
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\AxInterop.WMPLib.dll
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.ResolveComReference.cache
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Ayuda.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.BusquedaGoogle.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Calculos.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Dictado.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Intro.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.IntroMusica.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Asistente_virtual.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Login.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Menu_aplicaciones.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Musica.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente_personal_Lucy.Properties.Resources.resources
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.csproj.GenerateResource.Cache
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.exe
+F:\Proyectos Importantes\Asistente-Lucy\Speech Lucy\Asistente personal Lucy\Asistente personal Lucy\obj\Debug\Asistente personal Lucy.pdb
